@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lbi:home|Door43 (lbi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lbi|d43-lbi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lbi/archive/master.zip|d43-lbi.zip]]
+
+**Recent Changes**
+{{changes>ns = lbi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lbi|Ethnologue data]]
+
